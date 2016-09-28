@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-  /*  background-color: lightblue;*/
+   background-color: lightblue;
     margin-top: 75px;
     background-image: url(/ui/imad.jpg);
 }
@@ -18,6 +18,6 @@ body {
 }
 
 .img-medium {
-    height: 600px;
+    height: 200px;
 }
 
