@@ -2,7 +2,8 @@ body {
     font-family: sans-serif;
    background-color: black;
     margin-top: 10px;
-    background: #ffffff url("https://s-media-cache-ak0.pinimg.com/474x/ad/ee/5b/adee5b1eb2950925ce7f54a036f66f98.jpg") no-repeat right top;
+   background-image: url("https://s-media-cache-ak0.pinimg.com/474x/ad/ee/5b/adee5b1eb2950925ce7f54a036f66f98.jpg");
+    
   
 }
 ul {
