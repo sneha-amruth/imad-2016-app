@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
    background-color: black;
-    margin-top: 75px;
+    margin-top: 15px;
   
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 30;
+    padding: 0;
     overflow: hidden;
     background-color: #333;
 }
@@ -20,7 +20,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 5px 16px;
+    padding: 14px 16px;
     text-decoration: none;
 }
 
